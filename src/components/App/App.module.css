@@ -5,3 +5,7 @@
   flex-direction: column;
   background-image: linear-gradient(#ca81c0, #7b827b);
 }
+
+.buttons {
+  color: #ca81c0;
+}
