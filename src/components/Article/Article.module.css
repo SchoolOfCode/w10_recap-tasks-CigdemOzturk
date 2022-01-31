@@ -1,0 +1,18 @@
+.post {
+  margin-left: 20px;
+}
+
+.likeButton {
+  border-radius: 20px;
+  border-style: double;
+  border-color: #ef8914;
+  margin-bottom: 10px;
+}
+
+.commentSection {
+  border-radius: 20px;
+  box-shadow: inset 0px 0px 7px 1px #ef8914;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
